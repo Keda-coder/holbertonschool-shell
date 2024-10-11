@@ -1,3 +1,2 @@
 #!/bin/bash
-#My first script
 Echo '/root/holbertonschool-shell/basics/0-current_working_directory'
