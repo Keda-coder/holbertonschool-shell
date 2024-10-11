@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "./root/holbertonschool-shell/0-current_working_directory/basics"
+echo $PATH
+
