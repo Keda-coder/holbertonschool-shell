@@ -1,2 +1,2 @@
 #!/bin/bash
-Echo '/root/holbertonschool-shell/basics/0-current_working_directory'
+echo "./root/holbertonschool-shell/basics/0-current_working_directory"
