@@ -1,21 +1,24 @@
-total 52
--rw-r--r-- 1 keda keda   0 Oct 16 14:56 *\"Best School"\\*$?*****:)
--rwxr-xr-x 1 keda keda  32 Oct 15 12:47 0-hello_world
--rwxr--r-- 1 keda keda  28 Oct 15 12:55 1-confused_smiley
--rwxr--r-- 1 keda keda  30 Oct 15 13:01 2-hellofile
--rwxr--r-- 1 keda keda  39 Oct 15 15:28 3-twofiles
--rwxr--r-- 1 keda keda  33 Oct 15 15:31 4-lastlines
--rwxr--r-- 1 keda keda  33 Oct 15 15:34 5-firstlines
--rwxr--r-- 1 keda keda  37 Oct 15 16:01 6-third_line
--rwxr--r-- 1 keda keda  80 Oct 16 16:41 7-file
--rwxr--r-- 1 keda keda  55 Oct 16 16:42 8-cwd_state
--rw-r--r-- 1 keda keda   0 Oct 15 17:42 L*@:kl
--rw-r--r-- 1 keda keda   0 Oct 15 17:42 L*l
--rw-r--r-- 1 keda keda  33 Oct 15 12:47 README.md
--rw-r--r-- 1 keda keda   0 Oct 16 14:49 \*\\"Best School"\\\\*$\*\*\*\*\*:)
--rw-r--r-- 1 keda keda   0 Oct 16 15:11 \*\\'Best Schoof \'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 keda keda  12 Oct 16 15:31 \*\\'Best School''\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 keda keda  12 Oct 16 15:15 \*\\'Best School\'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 keda keda 728 Oct 15 15:38 iacta
--rw-r--r-- 1 keda keda   0 Oct 16 14:58 lolo
--rw-r--r-- 1 keda keda   0 Oct 16 16:43 ls_cwd_content
+total 72
+-rw-r--r-- 1 keda keda     0 Oct 16 14:56 *\"Best School"\\*$?*****:)
+drwxr-xr-x 2 keda keda  4096 Oct 16 16:51 .
+drwxr-xr-x 6 keda keda  4096 Oct 15 12:47 ..
+-rw-r--r-- 1 keda keda 12288 Oct 16 16:47 .8-cwd_state.swo
+-rwxr-xr-x 1 keda keda    32 Oct 15 12:47 0-hello_world
+-rwxr--r-- 1 keda keda    28 Oct 15 12:55 1-confused_smiley
+-rwxr--r-- 1 keda keda    30 Oct 15 13:01 2-hellofile
+-rwxr--r-- 1 keda keda    39 Oct 15 15:28 3-twofiles
+-rwxr--r-- 1 keda keda    33 Oct 15 15:31 4-lastlines
+-rwxr--r-- 1 keda keda    33 Oct 15 15:34 5-firstlines
+-rwxr--r-- 1 keda keda    37 Oct 15 16:01 6-third_line
+-rwxr--r-- 1 keda keda    80 Oct 16 16:41 7-file
+-rw-r--r-- 1 keda keda    38 Oct 16 16:51 8-cwd_state
+-rw-r--r-- 1 keda keda     0 Oct 15 17:42 L*@:kl
+-rw-r--r-- 1 keda keda     0 Oct 15 17:42 L*l
+-rw-r--r-- 1 keda keda    33 Oct 15 12:47 README.md
+-rw-r--r-- 1 keda keda     0 Oct 16 14:49 \*\\"Best School"\\\\*$\*\*\*\*\*:)
+-rw-r--r-- 1 keda keda     0 Oct 16 15:11 \*\\'Best Schoof \'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 keda keda    12 Oct 16 15:31 \*\\'Best School''\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 keda keda    12 Oct 16 15:15 \*\\'Best School\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 keda keda   728 Oct 15 15:38 iacta
+-rw-r--r-- 1 keda keda     0 Oct 16 14:58 lolo
+-rw-r--r-- 1 keda keda     0 Oct 16 16:51 ls_cwd_content
