@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 10 /etc/passwd
+getent passwd | cut -d: -f1
