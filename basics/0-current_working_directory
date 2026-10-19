@@ -1,1 +1,2 @@
-/home/bdere/holbertonschool-shell/basics
+#!/bin/bash
+pwd
