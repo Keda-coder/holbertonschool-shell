@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd betty /tmp/hello                           
+chown betty /tmp/hello
